@@ -1,0 +1,3 @@
+vhdl work "decode4.vhd"
+vhdl work "sreg.vhd"
+vhdl work "reg8.vhd"

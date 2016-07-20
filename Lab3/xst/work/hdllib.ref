@@ -1,0 +1,12 @@
+AR serial behavioral E:/Lab3/serial.vhd sub00/vhpl11 1437195143
+AR sreg main E:/Lab3/sreg.vhd sub00/vhpl05 1437195137
+EN sreg NULL E:/Lab3/sreg.vhd sub00/vhpl04 1437195136
+EN decode4 NULL E:/Lab3/decode4.vhd sub00/vhpl02 1437195134
+AR decode4 main E:/Lab3/decode4.vhd sub00/vhpl03 1437195135
+EN serial NULL E:/Lab3/serial.vhd sub00/vhpl10 1437195142
+AR count4 main E:/Lab3/count4.vhd sub00/vhpl01 1437195133
+EN ctrl NULL E:/Lab3/ctrl.vhd sub00/vhpl08 1437195140
+EN count4 NULL E:/Lab3/count4.vhd sub00/vhpl00 1437195132
+AR ctrl main E:/Lab3/ctrl.vhd sub00/vhpl09 1437195141
+AR reg8 main E:/Lab3/reg8.vhd sub00/vhpl07 1437195139
+EN reg8 NULL E:/Lab3/reg8.vhd sub00/vhpl06 1437195138

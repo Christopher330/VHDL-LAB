@@ -1,0 +1,4 @@
+EN dff NULL E:/ShiftReg/dff.vhd sub00/vhpl00 1436450572
+EN shiftreg NULL E:/ShiftReg/shiftreg.vhd sub00/vhpl02 1436450574
+AR shiftreg behavioral E:/ShiftReg/shiftreg.vhd sub00/vhpl03 1436450575
+AR dff behavioral E:/ShiftReg/dff.vhd sub00/vhpl01 1436450573

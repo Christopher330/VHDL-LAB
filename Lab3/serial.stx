@@ -1,0 +1,45 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/Lab3/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> Parameter xsthdpdir set to E:/Lab3/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "E:/Lab3/count4.vhd" in Library work.
+Architecture main of Entity count4 is up to date.
+Compiling vhdl file "E:/Lab3/decode4.vhd" in Library work.
+Architecture main of Entity decode4 is up to date.
+Compiling vhdl file "E:/Lab3/sreg.vhd" in Library work.
+Architecture main of Entity sreg is up to date.
+Compiling vhdl file "E:/Lab3/reg8.vhd" in Library work.
+Architecture main of Entity reg8 is up to date.
+Compiling vhdl file "E:/Lab3/ctrl.vhd" in Library work.
+Architecture main of Entity ctrl is up to date.
+Compiling vhdl file "E:/Lab3/serial.vhd" in Library work.
+Entity <serial> compiled.
+Entity <serial> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.30 secs
+ 
+--> 
+
+Total memory usage is 216256 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

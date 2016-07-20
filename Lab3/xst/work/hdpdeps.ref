@@ -1,0 +1,27 @@
+V3 23
+FL E:/Lab3/count4.vhd 2015/07/17.10:25:05 P.20131013
+EN work/count4 1437195132 FL E:/Lab3/count4.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/std_logic_arith 1381692177
+AR work/count4/main 1437195133 \
+      FL E:/Lab3/count4.vhd EN work/count4 1437195132
+FL E:/Lab3/ctrl.vhd 2015/07/17.11:13:02 P.20131013
+EN work/ctrl 1437195140 FL E:/Lab3/ctrl.vhd PB ieee/std_logic_1164 1381692176
+AR work/ctrl/main 1437195141 \
+      FL E:/Lab3/ctrl.vhd EN work/ctrl 1437195140
+FL E:/Lab3/decode4.vhd 2015/07/17.10:42:17 P.20131013
+EN work/decode4 1437195134 FL E:/Lab3/decode4.vhd PB ieee/std_logic_1164 1381692176
+AR work/decode4/main 1437195135 \
+      FL E:/Lab3/decode4.vhd EN work/decode4 1437195134
+FL E:/Lab3/reg8.vhd 2015/07/17.10:51:05 P.20131013
+EN work/reg8 1437195138 FL E:/Lab3/reg8.vhd PB ieee/std_logic_1164 1381692176
+AR work/reg8/main 1437195139 \
+      FL E:/Lab3/reg8.vhd EN work/reg8 1437195138
+FL E:/Lab3/serial.vhd 2015/07/18.12:52:08 P.20131013
+EN work/serial 1437195142 FL E:/Lab3/serial.vhd PB ieee/std_logic_1164 1381692176
+AR work/serial/Behavioral 1437195143 \
+      FL E:/Lab3/serial.vhd EN work/serial 1437195142 CP count4 CP decode4 CP sreg \
+      CP reg8 CP ctrl
+FL E:/Lab3/sreg.vhd 2015/07/17.10:50:31 P.20131013
+EN work/sreg 1437195136 FL E:/Lab3/sreg.vhd PB ieee/std_logic_1164 1381692176
+AR work/sreg/main 1437195137 \
+      FL E:/Lab3/sreg.vhd EN work/sreg 1437195136

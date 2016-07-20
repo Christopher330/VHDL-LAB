@@ -1,0 +1,3 @@
+vhdl work "dff.vhd"
+vhdl work "shiftreg.vhd"
+vhdl work "test.vhd"

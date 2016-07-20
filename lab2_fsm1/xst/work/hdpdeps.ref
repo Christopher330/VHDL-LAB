@@ -1,0 +1,6 @@
+V3 3
+FL C:/JSJSJYSJ/lab2_fsm1/lab2_fsm1.vhd 2016/07/02.11:02:27 P.20131013
+EN work/lab2_fsm1 1467428549 FL C:/JSJSJYSJ/lab2_fsm1/lab2_fsm1.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/lab2_fsm1/Behavioral 1467428550 \
+      FL C:/JSJSJYSJ/lab2_fsm1/lab2_fsm1.vhd EN work/lab2_fsm1 1467428549
